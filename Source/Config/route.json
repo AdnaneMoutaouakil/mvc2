@@ -1,0 +1,16 @@
+[{
+    "action":"getUser",
+    "Controller":"UserController::getUsr"
+ },
+ {
+    "action":"getUsers",
+    "Controller":"UserController::getUsrs"
+
+    
+ },
+ {
+   "action":"getUserByName",
+   "Controller":"UserController::getUsrByName"
+
+   
+}]
