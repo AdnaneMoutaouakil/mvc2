@@ -1,8 +1,9 @@
 <?php
 
 namespace Controller;
-use Model\personneModel;
+
 use Source\Router;
+use Model\personneModel;
 
 
 class UserController{
